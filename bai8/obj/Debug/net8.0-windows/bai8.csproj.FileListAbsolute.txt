@@ -1,0 +1,16 @@
+D:\Lân\BTTH\bai8\bin\Debug\net8.0-windows\bai8.exe
+D:\Lân\BTTH\bai8\bin\Debug\net8.0-windows\bai8.deps.json
+D:\Lân\BTTH\bai8\bin\Debug\net8.0-windows\bai8.runtimeconfig.json
+D:\Lân\BTTH\bai8\bin\Debug\net8.0-windows\bai8.dll
+D:\Lân\BTTH\bai8\bin\Debug\net8.0-windows\bai8.pdb
+D:\Lân\BTTH\bai8\obj\Debug\net8.0-windows\bai8.money.resources
+D:\Lân\BTTH\bai8\obj\Debug\net8.0-windows\bai8.csproj.GenerateResource.cache
+D:\Lân\BTTH\bai8\obj\Debug\net8.0-windows\bai8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lân\BTTH\bai8\obj\Debug\net8.0-windows\bai8.AssemblyInfoInputs.cache
+D:\Lân\BTTH\bai8\obj\Debug\net8.0-windows\bai8.AssemblyInfo.cs
+D:\Lân\BTTH\bai8\obj\Debug\net8.0-windows\bai8.csproj.CoreCompileInputs.cache
+D:\Lân\BTTH\bai8\obj\Debug\net8.0-windows\bai8.dll
+D:\Lân\BTTH\bai8\obj\Debug\net8.0-windows\refint\bai8.dll
+D:\Lân\BTTH\bai8\obj\Debug\net8.0-windows\bai8.pdb
+D:\Lân\BTTH\bai8\obj\Debug\net8.0-windows\bai8.genruntimeconfig.cache
+D:\Lân\BTTH\bai8\obj\Debug\net8.0-windows\ref\bai8.dll

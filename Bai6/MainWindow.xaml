@@ -1,0 +1,58 @@
+﻿<Window x:Class="Bai6.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Calculator" Height="460" Width="330"
+        ResizeMode="NoResize" Background="#FFF8F8F8">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Display -->
+        <TextBox x:Name="txtDisplay"
+                 Text="0"
+                 FontSize="28"
+                 FontWeight="Bold"
+                 HorizontalContentAlignment="Right"
+                 VerticalContentAlignment="Center"
+                 Margin="0,0,0,10"
+                 Height="60"
+                 IsReadOnly="True"
+                 Background="White"
+                 Foreground="Black"/>
+
+        <!-- Buttons Grid -->
+        <UniformGrid Grid.Row="1" Rows="6" Columns="4">
+            <Button Content="Back" Click="Back_Click" Background="#FFEFEFEF"/>
+            <Button Content="CE" Click="ClearEntry_Click" Background="#FFEFEFEF"/>
+            <Button Content="C" Click="Clear_Click" Background="#FFEFEFEF"/>
+            <Button Content="/" Click="Button_Click"/>
+
+            <Button Content="7" Click="Button_Click"/>
+            <Button Content="8" Click="Button_Click"/>
+            <Button Content="9" Click="Button_Click"/>
+            <Button Content="*" Click="Button_Click"/>
+
+            <Button Content="4" Click="Button_Click"/>
+            <Button Content="5" Click="Button_Click"/>
+            <Button Content="6" Click="Button_Click"/>
+            <Button Content="-" Click="Button_Click"/>
+
+            <Button Content="1" Click="Button_Click"/>
+            <Button Content="2" Click="Button_Click"/>
+            <Button Content="3" Click="Button_Click"/>
+            <Button Content="+" Click="Button_Click"/>
+
+            <Button Content="(" Click="Button_Click"/>
+            <Button Content="0" Click="Button_Click"/>
+            <Button Content=")" Click="Button_Click"/>
+            <Button Content="=" Click="Equal_Click" Background="LightGreen"/>
+
+            <Button Content="." Click="Button_Click"/>
+            <Button Content="%" Click="Button_Click"/>
+            <Button Content="√" Click="Sqrt_Click"/>
+            <Button Content="1/x" Click="Reciprocal_Click"/>
+        </UniformGrid>
+    </Grid>
+</Window>

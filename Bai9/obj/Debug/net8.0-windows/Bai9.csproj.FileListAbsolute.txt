@@ -1,0 +1,16 @@
+D:\Lân\BTTH\Bai9\bin\Debug\net8.0-windows\Bai9.exe
+D:\Lân\BTTH\Bai9\bin\Debug\net8.0-windows\Bai9.deps.json
+D:\Lân\BTTH\Bai9\bin\Debug\net8.0-windows\Bai9.runtimeconfig.json
+D:\Lân\BTTH\Bai9\bin\Debug\net8.0-windows\Bai9.dll
+D:\Lân\BTTH\Bai9\bin\Debug\net8.0-windows\Bai9.pdb
+D:\Lân\BTTH\Bai9\obj\Debug\net8.0-windows\Bai9.Form1.resources
+D:\Lân\BTTH\Bai9\obj\Debug\net8.0-windows\Bai9.csproj.GenerateResource.cache
+D:\Lân\BTTH\Bai9\obj\Debug\net8.0-windows\Bai9.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lân\BTTH\Bai9\obj\Debug\net8.0-windows\Bai9.AssemblyInfoInputs.cache
+D:\Lân\BTTH\Bai9\obj\Debug\net8.0-windows\Bai9.AssemblyInfo.cs
+D:\Lân\BTTH\Bai9\obj\Debug\net8.0-windows\Bai9.csproj.CoreCompileInputs.cache
+D:\Lân\BTTH\Bai9\obj\Debug\net8.0-windows\Bai9.dll
+D:\Lân\BTTH\Bai9\obj\Debug\net8.0-windows\refint\Bai9.dll
+D:\Lân\BTTH\Bai9\obj\Debug\net8.0-windows\Bai9.pdb
+D:\Lân\BTTH\Bai9\obj\Debug\net8.0-windows\Bai9.genruntimeconfig.cache
+D:\Lân\BTTH\Bai9\obj\Debug\net8.0-windows\ref\Bai9.dll

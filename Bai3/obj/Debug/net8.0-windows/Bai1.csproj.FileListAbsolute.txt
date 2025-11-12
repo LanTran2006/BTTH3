@@ -1,0 +1,16 @@
+D:\Lân\BTTH\Bai1\bin\Debug\net8.0-windows\Bai1.exe
+D:\Lân\BTTH\Bai1\bin\Debug\net8.0-windows\Bai1.deps.json
+D:\Lân\BTTH\Bai1\bin\Debug\net8.0-windows\Bai1.runtimeconfig.json
+D:\Lân\BTTH\Bai1\bin\Debug\net8.0-windows\Bai1.dll
+D:\Lân\BTTH\Bai1\bin\Debug\net8.0-windows\Bai1.pdb
+D:\Lân\BTTH\Bai1\obj\Debug\net8.0-windows\Bai1.Form1.resources
+D:\Lân\BTTH\Bai1\obj\Debug\net8.0-windows\Bai1.csproj.GenerateResource.cache
+D:\Lân\BTTH\Bai1\obj\Debug\net8.0-windows\Bai1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lân\BTTH\Bai1\obj\Debug\net8.0-windows\Bai1.AssemblyInfoInputs.cache
+D:\Lân\BTTH\Bai1\obj\Debug\net8.0-windows\Bai1.AssemblyInfo.cs
+D:\Lân\BTTH\Bai1\obj\Debug\net8.0-windows\Bai1.csproj.CoreCompileInputs.cache
+D:\Lân\BTTH\Bai1\obj\Debug\net8.0-windows\Bai1.dll
+D:\Lân\BTTH\Bai1\obj\Debug\net8.0-windows\refint\Bai1.dll
+D:\Lân\BTTH\Bai1\obj\Debug\net8.0-windows\Bai1.pdb
+D:\Lân\BTTH\Bai1\obj\Debug\net8.0-windows\Bai1.genruntimeconfig.cache
+D:\Lân\BTTH\Bai1\obj\Debug\net8.0-windows\ref\Bai1.dll
